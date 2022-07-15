@@ -7,3 +7,5 @@ This is an add-on option (after you assembled your extruder) filament sensor tha
 For the https://github.com/Annex-Engineering/Sherpa_Mini-Extruder
 
 License - same as the extruder - see https://github.com/Annex-Engineering/ANNEX-Engineering-License-Agreement/blob/main/LICENSE.md
+
+Also on printables: https://www.printables.com/model/242329-sherpa-mini-idler-arm-filament-sensor
